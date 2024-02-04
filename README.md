@@ -1,27 +1,10 @@
-# GerenciadorDeEstudo
+# Gerenciador de Estudo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
+## Descrição do Projeto
+O projeto visa que o usuário consiga ter visão clara e objetiva de como está a sua evolução pessoal dentro de um planejamento de um determinado estudo. Estudo se refere a um curso ou algo que exija tempo a ser concluído.
 
-## Development server
+## Tecnologias Usadas
+Em primeiro lugar este projeto ANGULAR trata-se do front-end do sistema. Para o desenvolvimento deste foi usado os framework ANGULAR tendo sua base em NODE, BOOTSTRAP e auxilio da biblioteca PRIME NG, as linguagens base são HTML, CSS, JAVASCRIPT.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Licença de Uso
+Este repositório é livre para distribuição e modificações próprias estando definitivamente proibido o uso comercial do mesmo (apenas por mim), caso use o repositório deverá citar este perfil do github como o desenvolvedor original da API.
